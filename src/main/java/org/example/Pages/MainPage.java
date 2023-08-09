@@ -4,7 +4,7 @@ import org.example.API.BackToMainDetails;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import static jdk.javadoc.doclet.DocletEnvironment.ModuleMode.API;
+
 
 public class MainPage {
 

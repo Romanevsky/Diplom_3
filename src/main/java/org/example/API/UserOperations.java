@@ -2,7 +2,6 @@ package org.example.API;
 
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
-
 import static io.restassured.RestAssured.given;
 
 public class UserOperations {
